@@ -18,6 +18,6 @@ bowler-select that selects a team based on bowlerships.
 
 The paper can be found at: https://arxiv.org/pdf/2108.12667.pdf
 
-
+The data can be found at: cricsheet.org
 
 
