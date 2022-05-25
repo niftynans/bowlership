@@ -1,2 +1,23 @@
-# bowlership
-Team sports are all about player synergies; deciding when to let your partner take the shot in Tennis doubles or anticipating the next pass in Football. This is why often the best single’s champions are not necessarily the best doubles’ champions in Tennis, and the team with more star players does not necessarily win the Football match. In this paper, we investigate bowler pairs. We introduce and precisely define a bowling partnership. Bowlers bowl in pairs from opposite ends of the field alternately. It is often the case that a pair of bowlers bowl several consecutive overs alternately. We define such pairs of bowlers a bowling pair. Are some bowling pairs more effective than others? Are they effective in terms of saving runs or taking wickets?
+
+# Bowlership: Examining the Existence of Bowler Synergies in Cricket
+
+Player synergies are a salient feature of team sports. In the team game of cricket,
+player synergies may be reflected in batting partnerships. Batting partnerships
+have been analysed extensively. 
+
+In this paper, we introduce and precisely define
+bowling partnerships. We explain their importance, and analyse ball-by-ball
+data from three formats of the game: 2,034 one-day international matches, 634
+Test matches and 1,432 Twenty-20 international matches, in order to find such
+bowling partnerships (“bowlerships”). 
+
+We find that bowlerships exist. Further, we construct bowlership networks based on these pairwise synergies. We assert
+that these bowlership networks can be analysed for team selection before a
+match, and making bowling changes during the match. We present Algorithm
+bowler-select that selects a team based on bowlerships.
+
+The paper can be found at: https://arxiv.org/pdf/2108.12667.pdf
+
+
+
+
